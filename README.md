@@ -4,7 +4,7 @@ Your personal record of everything you build in this program.
 
 Update it at the end of every class. By the end, you'll have a portfolio showing your growth as a developer.
 
-> 🔑 **First thing each class:** add the BSMP Azure AI models to your Codespace before you start 👉 **[Adding the BSMP Azure AI Models (BYOK)](https://bsmp-coders.github.io/#/2026/program/byok_azure_models_setup)**
+> 🔑 **First thing each class:** add the BSMP Azure AI models to your Codespace before you start 👉 **[Adding the BSMP Azure AI Models (BYOK)](https://bsmp-coders.github.io/#/2026/program/byok_azure_models_setup?id=%f0%9f%a7%a9-part-1-add-the-model-to-github-copilot)**
 
 ---
 
