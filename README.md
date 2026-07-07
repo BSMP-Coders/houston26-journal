@@ -68,3 +68,12 @@ git push
 Or use the Source Control panel in VS Code (the branch icon on the left).
 
 **Or just prompt your Copilot agent to do it!** Open Copilot Chat (agent mode) and ask *"commit and push my journal entry"* — it runs the commands for you.
+
+---
+
+## 🔗 Helpful Links
+
+- **Houston Assignments** (accept each lesson here) 👉 https://classroom.github.com/classrooms/173598827-bsmp-coders-houston-2026
+- **Getting Started guide** (GitHub account, Codespaces, the basics) 👉 https://bsmp-coders.github.io/#/students/Getting-Started
+- **Adding the BSMP Azure AI Models (BYOK)** 👉 https://bsmp-coders.github.io/#/2026/program/byok_azure_models_setup
+- **All lessons & program home** 👉 https://bsmp-coders.github.io/
