@@ -6,6 +6,8 @@ Update it at the end of every class. By the end, you'll have a portfolio showing
 
 > 🔑 **First thing each class:** add the BSMP Azure AI models to your Codespace before you start 👉 **[Adding the BSMP Azure AI Models (BYOK)](https://bsmp-coders.github.io/#/2026/program/byok_azure_models_setup?id=%f0%9f%a7%a9-part-1-add-the-model-to-github-copilot)**
 
+> 🗓️ **Office Hours — Mondays, 1 PM CT (Houston time):** Stuck between classes or want extra help? Drop in live 👉 https://aka.ms/bsmpcoding/joinOfficeHours
+
 ---
 
 ## How It Works
